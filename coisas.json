@@ -1,0 +1,27 @@
+[
+        {  
+            "livro 1":{
+                "id": "1",
+                "name": "Harry Potter e a Câmara Secreta",
+                "capa": "Capa_HP2.jpg",
+                "data": "2 de julho de 1998",
+                "autor": "JK Howling"
+            },
+            "livro 2":{
+                "id": "2",
+                "name": "Harry Potter e o Cálice de Fogo",
+                "capa": "Futura url",
+                "data": "futura data",
+                "autor": "JK Howling"
+            },
+            "livro 3":{
+                "id": "3",
+                "name": "Harry Potter e as Relíquias da Morte",
+                "capa": "Futura url",
+                "data": "futura data",
+                "autor": "JK Howling"
+            }
+        }
+
+    
+]
