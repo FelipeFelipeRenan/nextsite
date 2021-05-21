@@ -1,2 +1,2 @@
 # nextsite
-Site pessoa~lde testes feito com NextJs
+Site pessoal de testes feito com NextJs
